@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9261c9f2-8724-4466-a4be-0bef9ce88dcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bL06kcqMRv7gyshVj1F16JMCSY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.game">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spot_differences" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spot_differences" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="69" key="FileChooserDialogImpl" timestamp="1588661585910">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="184" y="69" key="FileChooserDialogImpl/67.27.733.573@67.27.733.573" timestamp="1588661585910" />
+    <state width="703" height="71" key="GridCell.Tab.0.bottom" timestamp="1591709512622">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="703" height="71" key="GridCell.Tab.0.bottom/67.27.733.573@67.27.733.573" timestamp="1591709512622" />
+    <state width="703" height="71" key="GridCell.Tab.0.center" timestamp="1591709512621">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="703" height="71" key="GridCell.Tab.0.center/67.27.733.573@67.27.733.573" timestamp="1591709512621" />
+    <state width="703" height="71" key="GridCell.Tab.0.left" timestamp="1591709512621">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="703" height="71" key="GridCell.Tab.0.left/67.27.733.573@67.27.733.573" timestamp="1591709512621" />
+    <state width="703" height="71" key="GridCell.Tab.0.right" timestamp="1591709512622">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="703" height="71" key="GridCell.Tab.0.right/67.27.733.573@67.27.733.573" timestamp="1591709512622" />
+    <state width="703" height="157" key="GridCell.Tab.1.bottom" timestamp="1591363711017">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="703" height="157" key="GridCell.Tab.1.bottom/67.27.733.573@67.27.733.573" timestamp="1591363711017" />
+    <state width="703" height="157" key="GridCell.Tab.1.center" timestamp="1591363711017">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="703" height="157" key="GridCell.Tab.1.center/67.27.733.573@67.27.733.573" timestamp="1591363711017" />
+    <state width="703" height="157" key="GridCell.Tab.1.left" timestamp="1591363711016">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="703" height="157" key="GridCell.Tab.1.left/67.27.733.573@67.27.733.573" timestamp="1591363711016" />
+    <state width="703" height="157" key="GridCell.Tab.1.right" timestamp="1591363711017">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="703" height="157" key="GridCell.Tab.1.right/67.27.733.573@67.27.733.573" timestamp="1591363711017" />
+    <state x="92" y="26" width="681" height="683" key="search.everywhere.popup" timestamp="1591254832449">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="92" y="26" width="681" height="683" key="search.everywhere.popup/67.27.733.573@67.27.733.573" timestamp="1591254832449" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.lv1_1.rect" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
